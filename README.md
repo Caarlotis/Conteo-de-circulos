@@ -17,6 +17,4 @@ Este proyecto práctico tiene como objetivo aplicar y comprender cuatro aspectos
 
 ## 4. Detección y Medición de Objetos
 
-- Aunque la detección y medida detallada de objetos se abordará más adelante en el curso, aquí realizaremos una versión simplificada y guiada. Contaremos el número de círculos presentes en la imagen y proporcionaremos una medida inicial de estos.
-
-Este proyecto proporcionará una experiencia práctica en el procesamiento de imágenes y servirá como un primer paso hacia la detección y medición de objetos más avanzada en futuras etapas del curso. ¡A disfrutar del desafío! 📷🔍
+- Aunque la detección y medida detallada de objetos se abordará más adelante en el curso, aquí realizaremos una versión simplificada y guiada. 
